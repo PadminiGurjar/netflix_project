@@ -1,4 +1,4 @@
-Project Name: Netflix Data Analysis and VisualizationDescription: 
+Project Name: Netflix Data Analysis and VisualizationDescription:
 This project showcases a comprehensive data analysis pipeline for Netflix content. It starts with data cleaning using Excel, followed by data consolidation in MySQL, and culminates in powerful visualizations using Power BI tools. The project offers insights into Netflix's content catalog, including shows added by date, shows by rating, top 10 genres, and available countries.
 Key Technologies:Excel for data cleaning
 MySQL for data consolidation
